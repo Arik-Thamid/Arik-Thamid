@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Arik Thamid 👋
 
-<!--
-**Arik-Thamid/Arik-Thamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 HSC-27 Science Student from Bangladesh
+- 💻 Interested in Web Development, Programming, and Technology
+- 🚀 Passionate about Aerospace Engineering, Space Exploration, and Innovation
+- 📚 Enjoy learning new technologies and building practical projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Areas of Interest
+
+- Aerospace Engineering
+- Web Development
+- Artificial Intelligence
+- Robotics
+- Space Technology
+
+## 🌟 Motto
+
+> "Dream big, work hard, stay consistent."
