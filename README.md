@@ -1,4 +1,4 @@
-# Hi, I'm Arik Thamid 👋
+# As-salamu Alaikum wa Rahmatullah, I'm Arik Thamid 👋
 
 ## 👨‍💻 About Me
 
